@@ -1,0 +1,16 @@
+D:\programming and modeling\C#\6lesson\bin\Debug\net5.0\6lesson.exe
+D:\programming and modeling\C#\6lesson\bin\Debug\net5.0\6lesson.deps.json
+D:\programming and modeling\C#\6lesson\bin\Debug\net5.0\6lesson.runtimeconfig.json
+D:\programming and modeling\C#\6lesson\bin\Debug\net5.0\6lesson.runtimeconfig.dev.json
+D:\programming and modeling\C#\6lesson\bin\Debug\net5.0\6lesson.dll
+D:\programming and modeling\C#\6lesson\bin\Debug\net5.0\ref\6lesson.dll
+D:\programming and modeling\C#\6lesson\bin\Debug\net5.0\6lesson.pdb
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.csproj.AssemblyReference.cache
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.AssemblyInfoInputs.cache
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.AssemblyInfo.cs
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.csproj.CoreCompileInputs.cache
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.dll
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\ref\6lesson.dll
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.pdb
+D:\programming and modeling\C#\6lesson\obj\Debug\net5.0\6lesson.genruntimeconfig.cache
